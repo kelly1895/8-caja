@@ -1,0 +1,57 @@
+.c1{
+    border: 1px solid black;
+    background: #808080;
+    width: 100px;
+    height: 100px;
+    
+}
+.caja_padre{
+    margin-top: 5px;
+    border: 1px solid black;
+    background: #808080;
+    width: 348px;
+    height: 125px;
+    position: relative;
+      
+    
+}
+
+
+.c2{
+    border: 1px solid black;
+    background: #808080;
+    width: 100px;
+    height: 100px;
+    position: relative;
+    margin-top: 10px;
+    margin-left:10px;
+    float: left;
+}
+
+
+
+
+.c3{
+    border:1px solid black;
+    background: #808080;
+    width: 100px;
+    height: 100px;
+    position: relative;
+    margin-top: 10px;
+    margin-right: 10px;
+   float: left;
+    
+}
+
+
+.c4{
+    border:1px solid black;
+    background: #808080;
+    width: 100px;
+    height: 100px;
+    margin-top: 125px;
+
+
+}
+
+
